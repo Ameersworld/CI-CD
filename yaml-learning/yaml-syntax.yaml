@@ -1,0 +1,15 @@
+#key:value pairs
+name: Foo Bar
+job: DevOps Engineer
+Age: 1000
+
+#lists
+fruits:
+  - Apples
+  - Bananas
+  - Cherries
+
+#nested elements, combine lists with key:value pairs
+address:
+  street: 10 Downing Street
+  city: London
